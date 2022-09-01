@@ -1,0 +1,10 @@
+Telas
+
+1. Home
+2. Login
+3. Cadastro
+4. Recuperar senha
+5. Configurações
+6. Carteira
+7. Proventos (o que você cadastrou na carteira)
+8. Dados históricos 
